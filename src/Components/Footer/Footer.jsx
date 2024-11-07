@@ -14,7 +14,7 @@ export const Footer = () => {
                     <p className='text-[13px]'><span className='font-semibold'>U.K Office:</span> Suite 3740 Unit 3A 34-35 
                     Hatton Garden Holborn London EC1N 8DX</p>
                 </div>
-                <div className='mb-2 text-center hidden sm:block'>
+                <div className='mb-2 hidden sm:block'>
                     <p className='text-[13px]'><span className='font-semibold'>Nigeria Office:</span> 10 Fadeyi Aladura Street,
                     Off Orishe road, Obafemi Awolowo Way.  Ikeja Lgos. Nigeria.</p>
                 </div>
